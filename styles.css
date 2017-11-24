@@ -1,0 +1,37 @@
+#TitleBox{
+	height: 50px;
+	padding: 5px;
+	margin-left: 20px;
+	margin-right: 10px;
+	background-color: #1D1;
+	border: 3px solid #11D;
+	}
+#Title{
+	position: relative;
+	top: -15px;
+	left: 5px;
+	color: #11D;
+	}
+#Navi {
+	position: absolute;
+	top: 70px;
+	width: 200px;
+	}
+.navilist li{
+	list-style: none;
+	margin: 5px;
+	padding: 10px;
+	background-color: #C00;
+	color: #FFF;
+	border: 2px solid #000;
+	}
+.navilist ul{
+		position: relative;
+		left: -20px;
+		width: 90%;
+		padding-top: 10px;
+	}
+a:link, a:visited{
+		text-decoration: none;
+		color: black;
+	}
